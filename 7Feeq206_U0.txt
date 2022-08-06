@@ -1,0 +1,15 @@
+<div class="d-flex text-white">
+
+<a href="https://amzn.to/3cR4mc5" target="_blank" class="p-1">
+    <figure>
+        <img src="https://m.media-amazon.com/images/I/319d3vGKa6L.jpg" 
+        class="img-fluid rounded"
+        style="width: 500px"
+        />
+        <figcaption class="text-white btn btn-sm btn-secondary mt-1">
+           Letstrack TAG Smart Bluetooth Tracker for Keys, Wallet, Pets and Kids – Phone Finder, Smart Lost Item Tracker (Pack of 3, Blue)
+        </figcaption>
+    </figure>
+</a>
+
+</div>
